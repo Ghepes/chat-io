@@ -14,5 +14,5 @@ io.on('connection', (socket) => {
 });
 
 http.listen(port, () => {
-  console.log(`Socket.IO server running at https://dev-backend.vercel.app/`);
+  console.log(`Socket.IO server running at https://chat-io-nine.vercel.app/`);
 });
