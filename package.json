@@ -4,9 +4,6 @@
   "description": "chat app mit socket info",
   "main": "index.js",
   "scripts": {
-    "dev": "facebloog",
-    "development": "facebloog dev",
-    "build": "facebloog build",
     "start": "node index.js"
   },
   "keywords": [
